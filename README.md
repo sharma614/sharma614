@@ -11,9 +11,6 @@ I build end-to-end AI systems, SaaS products, and data tools that ship.
 - **DocuAgent** — a multi-agent RAG system with 8 specialised AI agents and real-time document chat
 - Exploring agentic AI pipelines and LLM-powered developer tools
 
-![Pulkit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharma614&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharma614&layout=compact&theme=default&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sharma614&theme=default&hide_border=true)](https://git.io/streak-stats)
 
